@@ -1,5 +1,17 @@
 <div id="top"></div>
+
 [![Contributors][contributors-shield]][contributors-url]
+
+<div align="center">
+  <h3 align="center">Elderly Wellbeing in BC, Canada</h3>
+  
+  <p align="center">
+    Langara College
+  </p>
+  <p align="center">
+    Data Analytics - Capstone Project
+  </p>
+</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
