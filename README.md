@@ -3,13 +3,12 @@
 [![Contributors][contributors-shield]][contributors-url]
 
 <div align="center">
-  <h3 align="center">Elderly Wellbeing in BC, Canada</h3>
-  
-  <p align="center">
-    Langara College
-  </p>
+  <h3 align="center">Elderly Well-being in BC, Canada</h3>
   <p align="center">
     Data Analytics - Capstone Project
+  </p>
+  <p align="center">
+    Langara College
   </p>
 </div>
 
