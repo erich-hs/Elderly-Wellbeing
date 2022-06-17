@@ -44,10 +44,13 @@ Through this repository the team will mantain the web-scraping and machine learn
 scraped data. All of the scraping and tools utilized in the project are in accordance with the websites and social medias
 policies.
 
-## Data Scraping
+### Data Scraping
 
-Twitter API v2.0 was used with requested Academic Research access. All data contained in this repository was studied in aggregate,
-where statistical inferences and visualizations were made in disregard of individual analysis of isolated tweets.
+Twitter API v2.0 was used with requested Academic Research access. All data contained in this repository was studied in aggregate, where statistical inferences and visualizations were made in disregard of individual analysis of isolated tweets.
+
+## Dashboard
+
+A [Tableau Dashboard](https://public.tableau.com/app/profile/erich6116/viz/Elderly_Well-being_online/Elderly_Well-being) was developed to present the initial topic modeling and sentiment analysis results of Twitter data. The dashboard alongside an informational banner about the adopted methodology was exhibited at the 2022 Langara's Applied Research Day fair. The project was **awarded the prize for the presentation that best communicates the project**.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
