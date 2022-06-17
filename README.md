@@ -44,6 +44,11 @@ Through this repository the team will mantain the web-scraping and machine learn
 scraped data. All of the scraping and tools utilized in the project are in accordance with the websites and social medias
 policies.
 
+## Data Scraping
+
+Twitter API v2.0 was used with requested Academic Research access. All data contained in this repository was studied in aggregate,
+where statistical inferences and visualizations were made in disregard of individual analysis of isolated tweets.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
