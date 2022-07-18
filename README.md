@@ -31,7 +31,7 @@ in the last 2 years during the pandemic.
 ### Research Questions
 -	Among the academic society, what research has been conducted in the context of the elderly’s well-being? This question
 relates to the geographical location, and cultural and socio-economic contexts.
--	What topics have been discussed in the context of the elderly’s well-being in social media fora?
+-	What topics have been discussed in the context of the elderly’s well-being in social media?
 -	What topics have been discussed in the context of the elderly’s well-being in the general media?
 -	How do perceptions of well-being from the social and general media align with the existing literature?
 -	What is the general public mentioning in Twitter about the well-being and happiness among seniors in B.C.?
